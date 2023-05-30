@@ -1,4 +1,4 @@
-# LGM_VIP_Data_Science\
+# LGM_VIP_Data_Science
 Lets Grow More: Data Science\
 In my Data Science Internship at Lets Grow More I have successfully developed these four tasks. 
 
